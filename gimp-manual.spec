@@ -4,7 +4,7 @@ Summary(pl):	Wersja HTML podrêcznika u¿ytkownika do GIMP-a
 Summary(pt_BR):	Versão HTML do manual do gimp
 Name:		gimp-manual
 Version:	1.0.0
-Release:	6
+Release:	7
 License:	OpenContent
 Group:		Documentation
 Source0:	ftp://manual.gimp.org/pub/manual/GimpUserManual-%{version}-html.tar.bz2

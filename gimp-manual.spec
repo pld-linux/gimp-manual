@@ -8,6 +8,7 @@ Release:	6
 License:	OpenContent
 Group:		Documentation
 Source0:	ftp://manual.gimp.org/pub/manual/GimpUserManual-%{version}-html.tar.bz2
+# Source0-md5:	e7e07c177c4682609257ea67ecf174d1
 URL:		http://manual.gimp.org/pub/manual/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch

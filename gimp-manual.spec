@@ -5,7 +5,7 @@ Summary:	The HTML version of the GIMP User Manual (GUM).
 Group:		Documentation
 Copyright:	OpenContent
 Source:		ftp://manual.gimp.org/pub/manual/GimpUserManual-1.0.0-html.tar.bz2
-BuildRoot:	/tmp/%{name}-%{version}-root
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
 %description

@@ -29,6 +29,25 @@ them with the GIMP.
 For more information about the GUM, check the GUM website at
 http://manual.gimp.org/.
 
+%description -l pl
+pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP (GNU Image
+Manipulation Program) w formacie HTML. nalezy zwróciæ uwagê na fakt, ¿e 
+HTML-owa wersja podrêcznka nie jest tak dobbrej jakosci jak inne wersje,
+które mo¿na ¶ci±gn±æ z oficjalnej strony GUM: 
+http://manual.gimp.org/pub/manual/.
+Na internetowej stronie GUM mo¿na zaopatrzyæ siê w postscriptow± i pdf-ow±
+wersjê podrêcznika, jak równie¿ uzyskaæ ¼ród³a dla FrameMakera. Kod ¼ród³owy
+FrameMakera jest dla tych, którzy chcieliby mieæ swój udzia³ w Projekcie
+Dokumentacji Graficznej. Dodatki do podrêcznika s± przyjmowane na zasadach
+licencji podrêcznika, które mo¿na znale¼æ w pliku COPYING.
+GUM jest kompletnym podrêcznikiem GIMP-a. Obecna wersja podrêcznika zawiera
+ulepszenia w stosunku do poprzednich wersji. Nale¿y zapoznaæ siê z nowym 
+rozdzia³em "Galeria", który prezentuje przyzwoity przegl±d mo¿liwo¶ci GIMP-a.
+Galeria zawiera interesuj±ce obrazki i zawiera wskazówki mówi±ce o tym, jak
+samemu stworzyæ podobne dzie³a przy pomocy GIMP-a.
+Aby dowiedziec sie wiêcej o GUM-ie, nalezuy odwiedziæ stronê WWW GUM-a:
+http://manual.gimp.org/.
+
 %prep
 %setup -q -n GimpUserManaul_v1.0.0
 

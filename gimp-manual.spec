@@ -1,11 +1,15 @@
+Summary:	The HTML version of the GIMP User Manual (GUM)
+Summary(pl):	Wersja HTML podrêcznika u¿ytkownika do GIMP-a
 Name:		gimp-manual
 Version:	1.0.0
-Release:	5
-Summary:	The HTML version of the GIMP User Manual (GUM).
+Release:	6
+License:	OpenContent
 Group:		Documentation
+Group(de):	Dokumentation
+Group(es):	Documentación
 Group(pl):	Dokumentacja
-Copyright:	OpenContent
 Source0:	ftp://manual.gimp.org/pub/manual/GimpUserManual-%{version}-html.tar.bz2
+URL:		http://manual.gimp.org/pub/manual/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildArch:	noarch
 
@@ -32,9 +36,9 @@ For more information about the GUM, check the GUM website at
 http://manual.gimp.org/.
 
 %description -l pl
-pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP
-(GNU Image Manipulation Program) w formacie HTML. nalezy zwróciæ uwagê
-na fakt, ¿e HTML-owa wersja podrêcznka nie jest tak dobbrej jakosci
+Pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP
+(GNU Image Manipulation Program) w formacie HTML. Nale¿y zwróciæ uwagê
+na fakt, ¿e HTML-owa wersja podrêcznika nie jest tak dobrej jako¶ci
 jak inne wersje, które mo¿na ¶ci±gn±æ z oficjalnej strony GUM:
 http://manual.gimp.org/pub/manual/. Na internetowej stronie GUM mo¿na
 zaopatrzyæ siê w postscriptow± i pdf-ow± wersjê podrêcznika, jak
@@ -47,18 +51,15 @@ stosunku do poprzednich wersji. Nale¿y zapoznaæ siê z nowym rozdzia³em
 "Galeria", który prezentuje przyzwoity przegl±d mo¿liwo¶ci GIMP-a.
 Galeria zawiera interesuj±ce obrazki i zawiera wskazówki mówi±ce o
 tym, jak samemu stworzyæ podobne dzie³a przy pomocy GIMP-a. Aby
-dowiedziec sie wiêcej o GUM-ie, nalezuy odwiedziæ stronê WWW GUM-a:
+dowiedzieæ siê wiêcej o GUM-ie, nale¿y odwiedziæ stronê WWW GUM-a:
 http://manual.gimp.org/.
 
 %prep
 %setup -q -n GimpUserManaul_v1.0.0
 
-%build
-echo Done
-
 %install
 rm -rf $RPM_BUILD_ROOT
-echo Done
+install -d $RPM_BUILD_ROOT
 
 %clean
 rm -rf $RPM_BUILD_ROOT

@@ -7,9 +7,6 @@ Version:	1.0.0
 Release:	6
 License:	OpenContent
 Group:		Documentation
-Group(de):	Dokumentation
-Group(es):	Documentación
-Group(pl):	Dokumentacja
 Source0:	ftp://manual.gimp.org/pub/manual/GimpUserManual-%{version}-html.tar.bz2
 URL:		http://manual.gimp.org/pub/manual/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)

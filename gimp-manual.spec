@@ -45,16 +45,3 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc *
-
-%changelog
-* Wed Mar 31 1999 Bill Nottingham <notting@redhat.com>
-- fix docdir perms. Again.
-
-* Sun Mar 21 1999 Cristian Gafton <gafton@redhat.com> 
-- auto rebuild in the new build environment (release 4)
-
-* Thu Feb 25 1999 Matt Wilson <msw@redhat.com>
-- updated package description
-
-* Wed Nov 25 1998 Jeff Johnson <jbj@redhat.com>
-- rebuild to package with correct docdir perms.

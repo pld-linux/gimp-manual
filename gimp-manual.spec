@@ -33,7 +33,7 @@ GIMP can do. The Gallery displays cool images and give you hints on
 how to create them with the GIMP.
 
 For more information about the GUM, check the GUM website at
-http://manual.gimp.org/.
+http://manual.gimp.org/ .
 
 %description -l es
 Esta es la versión 1.0.0 del Manual del Usuario del GIMP (GUM). Es la
@@ -56,14 +56,14 @@ ser conveniente para usarse como un manual online no tiene la misma
 calidad de los formatos PDF y PostScript. Mejoras se harán, en el
 futuro, en la versión HTML. Esta versión ha tenido restricciones de
 tiempo. Para obtener otros formatos de este manual visita
-ftp://manual.gimp.org/pub/manual
+ftp://manual.gimp.org/pub/manual/ .
 
 %description -l pl
 Pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP
 (GNU Image Manipulation Program) w formacie HTML. Nale¿y zwróciæ uwagê
 na fakt, ¿e HTML-owa wersja podrêcznika nie jest tak dobrej jako¶ci
 jak inne wersje, które mo¿na ¶ci±gn±æ z oficjalnej strony GUM:
-http://manual.gimp.org/pub/manual/. Na internetowej stronie GUM mo¿na
+http://manual.gimp.org/pub/manual/ . Na internetowej stronie GUM mo¿na
 zaopatrzyæ siê w postscriptow± i pdf-ow± wersjê podrêcznika, jak
 równie¿ uzyskaæ ¼ród³a dla FrameMakera. Kod ¼ród³owy FrameMakera jest
 dla tych, którzy chcieliby mieæ swój udzia³ w Projekcie Dokumentacji
@@ -75,7 +75,7 @@ stosunku do poprzednich wersji. Nale¿y zapoznaæ siê z nowym rozdzia³em
 Galeria zawiera interesuj±ce obrazki i zawiera wskazówki mówi±ce o
 tym, jak samemu stworzyæ podobne dzie³a przy pomocy GIMP-a. Aby
 dowiedzieæ siê wiêcej o GUM-ie, nale¿y odwiedziæ stronê WWW GUM-a:
-http://manual.gimp.org/.
+http://manual.gimp.org/ .
 
 %description -l pt_BR
 Esta é a versão 1.0.0 do Manual do Usuário do GIMP (GUM). É a primeira
@@ -102,7 +102,7 @@ manual on-line, não tem a mesma qualidade dos formatos PDF e
 PostScript.
 
 Para obter outros formatos deste manual visite
-ftp://manual.gimp.org/pub/manual
+ftp://manual.gimp.org/pub/manual/ .
 
 %prep
 %setup -q -n GimpUserManaul_v1.0.0

@@ -63,8 +63,8 @@ Pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP
 (GNU Image Manipulation Program) w formacie HTML. Nale¿y zwróciæ uwagê
 na fakt, ¿e HTML-owa wersja podrêcznika nie jest tak dobrej jako¶ci
 jak inne wersje, które mo¿na ¶ci±gn±æ z oficjalnej strony GUM:
-<http://manual.gimp.org/pub/manual/>. Na internetowej stronie GUM mo¿na
-zaopatrzyæ siê w postscriptow± i pdf-ow± wersjê podrêcznika, jak
+<http://manual.gimp.org/pub/manual/>. Na internetowej stronie GUM
+mo¿na zaopatrzyæ siê w postscriptow± i pdf-ow± wersjê podrêcznika, jak
 równie¿ uzyskaæ ¼ród³a dla FrameMakera. Kod ¼ród³owy FrameMakera jest
 dla tych, którzy chcieliby mieæ swój udzia³ w Projekcie Dokumentacji
 Graficznej. Dodatki do podrêcznika s± przyjmowane na zasadach licencji

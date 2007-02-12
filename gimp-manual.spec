@@ -1,7 +1,7 @@
 Summary:	The HTML version of the GIMP User Manual (GUM)
-Summary(es):	Versión HTML del manual del gimp
-Summary(pl):	Wersja HTML podrêcznika u¿ytkownika do GIMP-a
-Summary(pt_BR):	Versão HTML do manual do gimp
+Summary(es.UTF-8):   VersiÃ³n HTML del manual del gimp
+Summary(pl.UTF-8):   Wersja HTML podrÄ™cznika uÅ¼ytkownika do GIMP-a
+Summary(pt_BR.UTF-8):   VersÃ£o HTML do manual do gimp
 Name:		gimp-manual
 Version:	1.0.0
 Release:	7
@@ -35,70 +35,70 @@ how to create them with the GIMP.
 For more information about the GUM, check the GUM website at
 <http://manual.gimp.org/>.
 
-%description -l es
-Esta es la versión 1.0.0 del Manual del Usuario del GIMP (GUM). Es la
-primera versión estable del manual, producto de casi un año de
-trabajo. Está disponible en HTML, PS, PDF y código fuente FM
-(FrameMaker). Por favor, lee el archivo COPYING para información sobre
-los términos de la licencia del manual. El manual tiene más o menos
-590 páginas y varias mejoras con relación a la versión anterior.
-Asegúrate de leer el capítulo "Gallery" que contiene muchas imágenes
+%description -l es.UTF-8
+Esta es la versiÃ³n 1.0.0 del Manual del Usuario del GIMP (GUM). Es la
+primera versiÃ³n estable del manual, producto de casi un aÃ±o de
+trabajo. EstÃ¡ disponible en HTML, PS, PDF y cÃ³digo fuente FM
+(FrameMaker). Por favor, lee el archivo COPYING para informaciÃ³n sobre
+los tÃ©rminos de la licencia del manual. El manual tiene mÃ¡s o menos
+590 pÃ¡ginas y varias mejoras con relaciÃ³n a la versiÃ³n anterior.
+AsegÃºrate de leer el capÃ­tulo "Gallery" que contiene muchas imÃ¡genes
 bonitas y trucos de como crearlas. La "Gallery" es un buen ejemplo de
-lo que puede ser hecho con GIMP. Todas las imágenes en el manual
-fueron hechas exclusivamente con GIMP. La versión HTML es apropiada
+lo que puede ser hecho con GIMP. Todas las imÃ¡genes en el manual
+fueron hechas exclusivamente con GIMP. La versiÃ³n HTML es apropiada
 para un manual online, en cuanto las versiones PS y PDF lo son para
-impresión, o para tener un manual online con una mayor calidad. El
-código fuente FM es útil solamente para los interesados en contribuir
-con el Proyecto de Documentación Gráfica. Las contribuciones para el
-Manual del Usuario del GIMP serán liberadas de acuerdo con la licencia
-contenida en el archivo COPYING. A pesar de la versión HTML del manual
+impresiÃ³n, o para tener un manual online con una mayor calidad. El
+cÃ³digo fuente FM es Ãºtil solamente para los interesados en contribuir
+con el Proyecto de DocumentaciÃ³n GrÃ¡fica. Las contribuciones para el
+Manual del Usuario del GIMP serÃ¡n liberadas de acuerdo con la licencia
+contenida en el archivo COPYING. A pesar de la versiÃ³n HTML del manual
 ser conveniente para usarse como un manual online no tiene la misma
-calidad de los formatos PDF y PostScript. Mejoras se harán, en el
-futuro, en la versión HTML. Esta versión ha tenido restricciones de
+calidad de los formatos PDF y PostScript. Mejoras se harÃ¡n, en el
+futuro, en la versiÃ³n HTML. Esta versiÃ³n ha tenido restricciones de
 tiempo. Para obtener otros formatos de este manual visita
 ftp://manual.gimp.org/pub/manual/ .
 
-%description -l pl
-Pakiet gimp-manual zawiera podrêcznik u¿ytkownika (GUM) programu GIMP
-(GNU Image Manipulation Program) w formacie HTML. Nale¿y zwróciæ uwagê
-na fakt, ¿e HTML-owa wersja podrêcznika nie jest tak dobrej jako¶ci
-jak inne wersje, które mo¿na ¶ci±gn±æ z oficjalnej strony GUM:
+%description -l pl.UTF-8
+Pakiet gimp-manual zawiera podrÄ™cznik uÅ¼ytkownika (GUM) programu GIMP
+(GNU Image Manipulation Program) w formacie HTML. NaleÅ¼y zwrÃ³ciÄ‡ uwagÄ™
+na fakt, Å¼e HTML-owa wersja podrÄ™cznika nie jest tak dobrej jakoÅ›ci
+jak inne wersje, ktÃ³re moÅ¼na Å›ciÄ…gnÄ…Ä‡ z oficjalnej strony GUM:
 <http://manual.gimp.org/pub/manual/>. Na internetowej stronie GUM
-mo¿na zaopatrzyæ siê w postscriptow± i pdf-ow± wersjê podrêcznika, jak
-równie¿ uzyskaæ ¼ród³a dla FrameMakera. Kod ¼ród³owy FrameMakera jest
-dla tych, którzy chcieliby mieæ swój udzia³ w Projekcie Dokumentacji
-Graficznej. Dodatki do podrêcznika s± przyjmowane na zasadach licencji
-podrêcznika, które mo¿na znale¼æ w pliku COPYING. GUM jest kompletnym
-podrêcznikiem GIMP-a. Obecna wersja podrêcznika zawiera ulepszenia w
-stosunku do poprzednich wersji. Nale¿y zapoznaæ siê z nowym rozdzia³em
-"Galeria", który prezentuje przyzwoity przegl±d mo¿liwo¶ci GIMP-a.
-Galeria zawiera interesuj±ce obrazki i zawiera wskazówki mówi±ce o
-tym, jak samemu stworzyæ podobne dzie³a przy pomocy GIMP-a. Aby
-dowiedzieæ siê wiêcej o GUM-ie, nale¿y odwiedziæ stronê WWW GUM-a:
+moÅ¼na zaopatrzyÄ‡ siÄ™ w postscriptowÄ… i pdf-owÄ… wersjÄ™ podrÄ™cznika, jak
+rÃ³wnieÅ¼ uzyskaÄ‡ ÅºrÃ³dÅ‚a dla FrameMakera. Kod ÅºrÃ³dÅ‚owy FrameMakera jest
+dla tych, ktÃ³rzy chcieliby mieÄ‡ swÃ³j udziaÅ‚ w Projekcie Dokumentacji
+Graficznej. Dodatki do podrÄ™cznika sÄ… przyjmowane na zasadach licencji
+podrÄ™cznika, ktÃ³re moÅ¼na znaleÅºÄ‡ w pliku COPYING. GUM jest kompletnym
+podrÄ™cznikiem GIMP-a. Obecna wersja podrÄ™cznika zawiera ulepszenia w
+stosunku do poprzednich wersji. NaleÅ¼y zapoznaÄ‡ siÄ™ z nowym rozdziaÅ‚em
+"Galeria", ktÃ³ry prezentuje przyzwoity przeglÄ…d moÅ¼liwoÅ›ci GIMP-a.
+Galeria zawiera interesujÄ…ce obrazki i zawiera wskazÃ³wki mÃ³wiÄ…ce o
+tym, jak samemu stworzyÄ‡ podobne dzieÅ‚a przy pomocy GIMP-a. Aby
+dowiedzieÄ‡ siÄ™ wiÄ™cej o GUM-ie, naleÅ¼y odwiedziÄ‡ stronÄ™ WWW GUM-a:
 <http://manual.gimp.org/>.
 
-%description -l pt_BR
-Esta é a versão 1.0.0 do Manual do Usuário do GIMP (GUM). É a primeira
-versão estável do manual, produto de quase um ano de trabalho. Está
-disponível em HTML, PS, PDF e código fonte FM (FrameMaker). Por favor
-leia o arquivo COPYING para informações sobre os termos de licença do
+%description -l pt_BR.UTF-8
+Esta Ã© a versÃ£o 1.0.0 do Manual do UsuÃ¡rio do GIMP (GUM). Ã‰ a primeira
+versÃ£o estÃ¡vel do manual, produto de quase um ano de trabalho. EstÃ¡
+disponÃ­vel em HTML, PS, PDF e cÃ³digo fonte FM (FrameMaker). Por favor
+leia o arquivo COPYING para informaÃ§Ãµes sobre os termos de licenÃ§a do
 manual.
 
-O manual tem mais ou menos 590 páginas e várias melhorias em relação à
-versão anterior. Certifique-se de ler o capítulo "Gallery" que contém
-muitas imagens bonitas e dicas de como criá-las. A "Gallery" é um bom
+O manual tem mais ou menos 590 pÃ¡ginas e vÃ¡rias melhorias em relaÃ§Ã£o Ã 
+versÃ£o anterior. Certifique-se de ler o capÃ­tulo "Gallery" que contÃ©m
+muitas imagens bonitas e dicas de como criÃ¡-las. A "Gallery" Ã© um bom
 exemplo do que pode ser feito com o GIMP. Todas as imagens no manual
 foram feitas exclusivamente com o GIMP.
 
-A versão HTML é apropriada para um manual online, enquanto as versões
-PS e PDF são apropriadas para impressão ou para ter um manual online
-com maior qualidade. O código fonte FM é útil somente para os
-interessados em contribuir com o Projeto de Documentação Gráfica. As
-contribuições para o Manual do Usuário do GIMP serão liberadas de
-acordo com a licença contida no arquivo COPYING.
+A versÃ£o HTML Ã© apropriada para um manual online, enquanto as versÃµes
+PS e PDF sÃ£o apropriadas para impressÃ£o ou para ter um manual online
+com maior qualidade. O cÃ³digo fonte FM Ã© Ãºtil somente para os
+interessados em contribuir com o Projeto de DocumentaÃ§Ã£o GrÃ¡fica. As
+contribuiÃ§Ãµes para o Manual do UsuÃ¡rio do GIMP serÃ£o liberadas de
+acordo com a licenÃ§a contida no arquivo COPYING.
 
-Apesar da versão HTML do manual ser conveniente para ser usada como um
-manual on-line, não tem a mesma qualidade dos formatos PDF e
+Apesar da versÃ£o HTML do manual ser conveniente para ser usada como um
+manual on-line, nÃ£o tem a mesma qualidade dos formatos PDF e
 PostScript.
 
 Para obter outros formatos deste manual visite

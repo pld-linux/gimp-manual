@@ -1,7 +1,7 @@
 Summary:	The HTML version of the GIMP User Manual (GUM)
-Summary(es.UTF-8):   Versión HTML del manual del gimp
-Summary(pl.UTF-8):   Wersja HTML podręcznika użytkownika do GIMP-a
-Summary(pt_BR.UTF-8):   Versão HTML do manual do gimp
+Summary(es.UTF-8):	Versión HTML del manual del gimp
+Summary(pl.UTF-8):	Wersja HTML podręcznika użytkownika do GIMP-a
+Summary(pt_BR.UTF-8):	Versão HTML do manual do gimp
 Name:		gimp-manual
 Version:	1.0.0
 Release:	7
